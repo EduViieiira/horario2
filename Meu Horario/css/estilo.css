@@ -1,0 +1,46 @@
+#body
+{
+	background-color: grey;
+}
+.container
+{
+	background-color: white;
+	min-height: 900px;
+	height: auto;
+}
+#bold
+{
+	font-weight: bold;
+}
+#aps
+{
+	height: 225px;
+}
+#pw
+{
+	height: 200px;
+}
+#pa
+{
+	height: 204px;
+}
+#tp
+{
+	height: 190px;
+}
+#dd
+{
+	height: 200px;
+}
+#bd
+{
+	height: 245px;
+}
+#ltt
+{
+	height: 187px;
+}
+#fi
+{
+	height: 215px;
+}
